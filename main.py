@@ -8,3 +8,6 @@ def nova_funkcija():
     return "Ovo je nova funkcija."
 
 #Barti samo sere jer je iz Imostkog
+
+def nova_metoda():
+    return "Ovo je nova metoda 2."
